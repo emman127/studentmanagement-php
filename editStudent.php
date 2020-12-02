@@ -1,0 +1,5 @@
+<?php 
+
+    $mystudent->editStudent();
+
+?>
